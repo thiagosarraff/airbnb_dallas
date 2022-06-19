@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.linkedin.com/in/thiago-sarraff/"><img alt="Author" src="https://img.shields.io/badge/author-thiagosarraff-red.svg"></a>
+  <a href="https://www.linkedin.com/in/thiagosarraff/"><img alt="Author" src="https://img.shields.io/badge/author-thiagosarraff-red.svg"></a>
   <a href="https://www.python.org/downloads/release/python-370/"><img alt="Python" src="https://img.shields.io/badge/python-3.7+-blue.svg"></a>
   <a href="http://perso.crans.org/besson/LICENSE.html"><img alt="GPLv3 License" src="https://img.shields.io/badge/License-GPLv3-blue.svg"></a>
   <a href="https://github.com/thiagosarraff/thiagosarraff/issues"><img alt="Contributions welcome" src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"></a>
@@ -27,5 +27,5 @@ Neste projeto iremos analisar os dados referentes à cidade de Dallas, no Texas,
 6. [Sigmoidal](https://sigmoidal.ai/)
 
 **Fique conectado:**
-* [LinkedIn](https://www.linkedin.com/in/thiago-sarraff/)
+* [LinkedIn](https://www.linkedin.com/in/thiagosarraff/)
 * [Medium](https://medium.com/@thiagosarraff)
